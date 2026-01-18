@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**lmfor/lmfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Leo ⭐
 
-Here are some ideas to get you started:
+CS student with bottom-up ML experience, from fundamentals to real-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- Creating a basic machine learning library
+- ML + LLM systems (RAG, embeddings, evals)
+- Agents + workflow tooling
+- Training + inference experiments
+
+## Tech
+**Python | Java | C++**  
+TensorFlow, LangChain/LangGraph, Docker, Git, Linux
+
+## Contact
+- LinkedIn : linkedin.com/in/leonardo-schaub-a53a28247/
+- Email    : leoschaub28@gmail.com
+
+⭐ If you're into building practical ML systems, we’ll get along.
