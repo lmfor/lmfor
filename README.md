@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# I'm Leo ⭐
+## I'm Leo ⭐
 
 CS student with bottom-up ML experience, from fundamentals to real-world systems.
 
