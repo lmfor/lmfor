@@ -10,7 +10,7 @@ CS student with bottom-up ML experience, from fundamentals to real-world systems
 - Agents + workflow tooling
 - Training + inference experiments
 
-## Tech
+## Languages & Tools
 **Python | Java | C++**  
 TensorFlow, LangChain/LangGraph, Docker, Git, Linux
 
